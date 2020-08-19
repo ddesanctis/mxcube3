@@ -7,13 +7,14 @@
 MXCuBE3 is the latest version of the data acquisition software MXCuBE (Macromolecular Xtallography Customized Beamline Environment). The project started in 2005 at [ESRF](http://www.esrf.eu), and has since then been adopted by other institutes in Europe. In 2010, a collaboration agreement has been signed for the development of MXCuBE with the following partners:
 
 * ESRF
-* [Soleil](http://www.synchrotron-soleil.fr/)
-* [Max lab](https://www.maxlab.lu.se/)
+* [SOLEIL](http://www.synchrotron-soleil.fr/)
+* [MAXIV](https://www.maxiv.lu.se/)
 * [HZB](http://www.helmholtz-berlin.de/)
 * [EMBL](http://www.embl.org/)
 * [Global Phasing Ltd.](http://www.globalphasing.com/)
 * [ALBA](https://www.cells.es/en)
 * [DESY](https://www.desy.de)
+* [ELETTRA](https://www.elettra.trieste.it/)
 * [SIRIUS](https://www.lnls.cnpem.br/)
 * [NSRRC](https://www.nsrrc.org.tw)
 
